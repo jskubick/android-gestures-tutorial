@@ -1,3 +1,11 @@
+This is a fork of https://github.com/alphamu/android-gestures-tutorial that was re-created as an Android Studio 3.
+
+The GestureBuilderActivity project is still broken, but the GesturesTutorialStep00 through GesturesTutorialStep03 projects should load and build properly in Android Studio 3. 
+
+The minimum API was changed to API 17 (4.0.3) for no specific reason.
+
+(the original README.md follows)
+
 Android Gestures Tutorial
 =========================
 
